@@ -1,6 +1,4 @@
 if game.PlaceId = 4637668954 then
   loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/7d52283d0a385256f3ce4f0181171d31a909fff0b613a10d2188318c46423db9/download"))()
-    elseif
-    --temp
 end
 
